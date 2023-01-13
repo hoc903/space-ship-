@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_asteroid",
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_asteroid_small",
+    "path": "sprites/Spr_asteroid_small/Spr_asteroid_small.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
