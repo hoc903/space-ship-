@@ -10,6 +10,7 @@
     {"id":{"name":"Obj_debris","path":"objects/Obj_debris/Obj_debris.yy",},"order":3,},
     {"id":{"name":"Spr_ship","path":"sprites/Spr_ship/Spr_ship.yy",},"order":0,},
     {"id":{"name":"Spr_asteroid_small","path":"sprites/Spr_asteroid_small/Spr_asteroid_small.yy",},"order":1,},
+    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},"order":4,},
     {"id":{"name":"Obj_ship","path":"objects/Obj_ship/Obj_ship.yy",},"order":0,},
     {"id":{"name":"Obj_asteroid","path":"objects/Obj_asteroid/Obj_asteroid.yy",},"order":1,},
     {"id":{"name":"Spr_asteroid_huge","path":"sprites/Spr_asteroid_huge/Spr_asteroid_huge.yy",},"order":3,},
