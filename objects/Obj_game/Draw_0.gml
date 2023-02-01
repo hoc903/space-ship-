@@ -53,7 +53,7 @@ switch(room){
 		 "FINAL SCORE:" +string(score)
 		 );
 		 	draw_text(
-		 room_width/2, 250,
+		 room_width/2, 300,
 		 "PRESS ENTER TO RESTART"
 		); 
 		draw_set_halign(fa_left);
